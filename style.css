@@ -1,6 +1,9 @@
 body {
     background-color: #fef5e9;
 }
+header {
+    margin-top: 10%;
+}
 p {
     color:#3d2d1b
 }
@@ -11,4 +14,9 @@ nav {
     background-color: #3d2d1b;
     position: fixed;
     top: 0;
+    width: 100%
+}
+.lighttext {
+    color:#fef5e9;
+
 }
